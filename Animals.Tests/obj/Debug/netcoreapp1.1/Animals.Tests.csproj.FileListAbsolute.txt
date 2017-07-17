@@ -1,0 +1,13 @@
+C:\Users\rmac_\workspace\csharp\exercises\animals\Animals.Tests\bin\Debug\netcoreapp1.1\Animals.Tests.deps.json
+C:\Users\rmac_\workspace\csharp\exercises\animals\Animals.Tests\bin\Debug\netcoreapp1.1\Animals.Tests.runtimeconfig.json
+C:\Users\rmac_\workspace\csharp\exercises\animals\Animals.Tests\bin\Debug\netcoreapp1.1\Animals.Tests.runtimeconfig.dev.json
+C:\Users\rmac_\workspace\csharp\exercises\animals\Animals.Tests\obj\Debug\netcoreapp1.1\Animals.Tests.AssemblyInfo.cs
+C:\Users\rmac_\workspace\csharp\exercises\animals\Animals.Tests\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\rmac_\workspace\csharp\exercises\animals\Animals.Tests\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\Users\rmac_\workspace\csharp\exercises\animals\Animals.Tests\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+C:\Users\rmac_\workspace\csharp\exercises\animals\Animals.Tests\bin\Debug\netcoreapp1.1\Animals.Tests.dll
+C:\Users\rmac_\workspace\csharp\exercises\animals\Animals.Tests\bin\Debug\netcoreapp1.1\Animals.Tests.pdb
+C:\Users\rmac_\workspace\csharp\exercises\animals\Animals.Tests\bin\Debug\netcoreapp1.1\Animals.dll
+C:\Users\rmac_\workspace\csharp\exercises\animals\Animals.Tests\bin\Debug\netcoreapp1.1\Animals.pdb
+C:\Users\rmac_\workspace\csharp\exercises\animals\Animals.Tests\obj\Debug\netcoreapp1.1\Animals.Tests.dll
+C:\Users\rmac_\workspace\csharp\exercises\animals\Animals.Tests\obj\Debug\netcoreapp1.1\Animals.Tests.pdb
